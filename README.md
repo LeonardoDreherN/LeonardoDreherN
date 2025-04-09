@@ -13,8 +13,8 @@ Transformo ideias e layouts Figma em interfaces funcionais com Flutter, HTML, CS
 🔌 Curto muito automação e projetos com IoT.
 
 🎯 Atualmente desenvolvendo:
-- App para controle de apostas esportivas em tempo real 📊⚽
-- Plataforma de consultoria online 💪🧠
+- App para controle de apostas esportivas em tempo real 📊⚽  
+- Plataforma de consultoria online 💪🧠  
 - Automatizações pessoais com Arduino e sensores 🔧
 
 📫 Entre em contato:
@@ -43,17 +43,6 @@ Transformo ideias e layouts Figma em interfaces funcionais com Flutter, HTML, CS
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeonardoDreherN&show_icons=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDreherN&layout=compact&theme=radical"/>
 </div>
-
----
-
-## 🕹️ Snake Game das Contribuições
-
-![snake gif](https://github.com/LeonardoDreherN/LeonardoDreherN/blob/output/github-contribution-grid-snake.svg)
-
----
-
-> _"Esquecer o passado é como correr atrás do vento sem sucesso... ninguém poderá te parar."_  
-> — Naruto Uzumaki 🍥
 
 ---
 
