@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Available_for_Projects-00f2ae?style=for-the-badge&logo=appveyor&logoColor=00f2ae&color=111111" alt="Status">
   <img src="https://img.shields.io/badge/Location-Santa_Catarina,_BR-7b2cbf?style=for-the-badge&logo=googlemaps&logoColor=7b2cbf&color=111111" alt="Location">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=00f2ae&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=LeonardoDreherN&color=00f2ae&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LeonardoDreherN&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -62,12 +62,12 @@
 ### 📊 Engineering Telemetry
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&bg_color=111111&title_color=00f2ae&icon_color=7b2cbf&text_color=e0e0e0&border_color=222222&hide_border=false" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&bg_color=111111&title_color=00f2ae&text_color=e0e0e0&border_color=222222&hide_border=false" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=LeonardoDreherN&show_icons=true&theme=tokyonight&bg_color=111111&title_color=00f2ae&icon_color=7b2cbf&text_color=e0e0e0&border_color=222222&hide_border=false" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LeonardoDreherN&layout=compact&theme=tokyonight&bg_color=111111&title_color=00f2ae&text_color=e0e0e0&border_color=222222&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&background=111111&ring=00f2ae&fire=7b2cbf&currStreakLabel=00f2ae&border=222222" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=LeonardoDreherN&theme=tokyonight&background=111111&ring=00f2ae&fire=7b2cbf&currStreakLabel=00f2ae&border=222222" alt="GitHub Streak" />
 </p>
 
 ---
