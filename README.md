@@ -1,62 +1,44 @@
-<h1 align="center">⚡ Fala aí! Sou o Leonardo Dreher</h1>
+<h3 align="center">
+  Leonardo Dreher
+  <br>
+  <sub align="center">Full Stack Software Engineer</sub>
+</h3>
+
 <p align="center">
-💻 Desenvolvedor <strong>Full Stack</strong> & Especialista em Integração de Dados 🇧🇷<br>
-Transformo ideias e layouts Figma em sistemas reais, conectando front e back com performance e eficiência.
+  <i>Specialized in high-performance cross-border e-commerce architecture, custom Shopify Liquid engineering, and enterprise logistics middleware integrations.</i>
 </p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+### 💻 Stack & Core Technologies
 
-🚀 Tenho 19 anos e sou movido por tecnologia e criação.  
-Atuo como **Desenvolvedor Full Stack**, trabalhando com **Flutter, JavaScript, HTML, CSS, Node.js e PostgreSQL** — do banco de dados ao design final.  
-
-🔌 Apaixonado por **automação, IoT e integração de sistemas**, sempre buscando unir o digital com o mundo real.
-
-📦 Projetos recentes:
-- **Sistema de Logística Internacional** com controle de embarques e integração entre filiais 🌎  
-- **Aplicativo personalizado para Personal Trainers**, com planos, treinos e acompanhamento de alunos 💪  
-- **Automatizações pessoais com sensores e Arduino** 🔧  
+* **Languages & Runtime:** JavaScript (ES6+), TypeScript, Node.js, Python
+* **Frontend & Mobile:** React, React Native, Expo, Tailwind CSS, NativeWind, Shopify Liquid
+* **Backend & Architecture:** Express, REST APIs, GraphQL, Webhooks, n8n Automations
+* **Databases & ORMs:** PostgreSQL, Prisma, Sequelize, Supabase
+* **DevOps & Tools:** Git, Docker, Linux, Vercel, AWS
 
 ---
 
-## 🧠 Stack Principal
+### 🚀 Key Projects & Systems
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-</div>
+* **[Intrex](https://intrex.com.br)** — Enterprise cross-border logistics middleware connecting Shopify and Nuvemshop storefronts with carrier APIs (FedEx, UPS, DHL) for real-time rates and customs automation.
+* **Vitrine Agency** — Custom, code-first e-commerce solutions, performance optimization, and international checkout architectures for major apparel and retail brands.
+* **PHD Training** — Full-stack personal trainer and student management ecosystem built with React Native, Node.js, and PostgreSQL.
 
 ---
 
-## 📊 Estatísticas
+### 📊 GitHub Stats & Streak
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoDreherN&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f2ae&icon_color=00f2ae&text_color=ffffff"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDreherN&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f2ae&text_color=ffffff"/>
-</div>
-
----
-
-## 🌐 Conecte-se comigo
-
-<div align="center">
-<a href="https://www.instagram.com/lleodreher/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/leonardo-dreher"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://wa.me/48998599137"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="mailto:leoanardodrehern@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoDreherN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDreherN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+</p>
 
 ---
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220px">
-<p><strong>“Código é lógica, mas também é arte.”</strong></p>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/leonardo-dreher" target="_blank">LinkedIn</a> • 
+  <a href="https://w.app/leonardodreher" target="_blank">WhatsApp</a> • 
+  <a href="mailto:contato@leonardodreher.com">Email</a>
+</p>
