@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=LeonardoDreherN&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=6" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=LeonardoDreherN&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=5&rank=-?" alt="GitHub Trophies" />
   </a>
 </p>
 
